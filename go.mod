@@ -11,7 +11,6 @@ require (
 	github.com/coreos/bbolt v1.3.2 // indirect
 	github.com/coreos/etcd v3.3.11+incompatible // indirect
 	github.com/coreos/go-systemd v0.0.0-20190204112023-081494f7ee4f // indirect
-	github.com/cyphar/filepath-securejoin v0.2.2 // indirect
 	github.com/docker/distribution v0.0.0-20170726174610-edc3ab29cdff // indirect
 	github.com/docker/docker v0.0.0-20170731201938-4f3616fb1c11 // indirect
 	github.com/docker/go-connections v0.3.0 // indirect
@@ -54,15 +53,14 @@ require (
 	google.golang.org/grpc v1.18.0
 	gopkg.in/square/go-jose.v2 v2.3.0 // indirect
 	gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0
-	k8s.io/api v0.0.0-20181128191700-6db15a15d2d3 // indirect
-	k8s.io/apiextensions-apiserver v0.0.0-20190221101132-cda7b6cfba78 // indirect
-	k8s.io/apimachinery v0.0.0-20190221084156-01f179d85dbc
-	k8s.io/apiserver v0.0.0-20190307163743-72040d33bb85 // indirect
-	k8s.io/cli-runtime v0.0.0-20190221101700-11047e25a94a // indirect
-	k8s.io/client-go v2.0.0-alpha.0.0.20190226174127-78295b709ec6+incompatible
-	k8s.io/helm v2.12.3+incompatible
+	k8s.io/api v0.0.0-20180712090710-2d6f90ab1293 // indirect
+	k8s.io/apiextensions-apiserver v0.0.0-20190223021643-57c81b676ab1 // indirect
+	k8s.io/apimachinery v0.0.0-20180621070125-103fd098999d
+	k8s.io/apiserver v0.0.0-20180718002855-8b122ec9e3bb // indirect
+	k8s.io/client-go v2.0.0-alpha.0.0.20180718001006-59698c7d9724+incompatible
+	k8s.io/helm v2.11.0+incompatible
 	k8s.io/kube-openapi v0.0.0-20180620173706-91cfa479c814 // indirect
-	k8s.io/kubernetes v1.12.7-beta.0.0.20190319150031-62b7e2bc5919 // indirect
+	k8s.io/kubernetes v1.11.9-beta.0.0.20190311041124-ede55fd57298 // indirect
 	k8s.io/utils v0.0.0-20190204185745-a326ccf4f02b // indirect
 	vbom.ml/util v0.0.0-20160121211510-db5cfe13f5cc // indirect
 )
